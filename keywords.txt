@@ -1,0 +1,8 @@
+farmIOT KEYWORD1
+farmiotKonfig KEYWORD2
+kirimData KEYWORD2
+getData KEYWORD2
+sendReportPagi KEYWORD2
+sendReportSiang KEYWORD2
+sendReportMalam KEYWORD2
+getStatusTombol KEYWORD2
